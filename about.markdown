@@ -1,18 +1,19 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# hi, i'm justanewdev 
+> currently cosplaying as a sysadmin
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+i'm interested in the following categories (listed in order of importance):
+- cats
+- computers
+- cars
+- clothing
+- cooking
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+### other cool people
+psych there are none...i'm the coolest\
+just kidding - coming soon
