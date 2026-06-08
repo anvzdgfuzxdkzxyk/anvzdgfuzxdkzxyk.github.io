@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # hi, i'm justanewdev 
-> currently cosplaying as a sysadmin
+> currently cosplaying as a sysadmin - and working to change that
 
 i'm interested in the following categories (listed in order of importance):
 - cats
