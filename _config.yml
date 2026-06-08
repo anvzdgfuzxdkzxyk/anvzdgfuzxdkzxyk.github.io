@@ -21,7 +21,7 @@
 title: Just a New Dev
 email: justanewdev@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just a new dev documenting all the ways to fail at computer stuff.
+  Just a new dev documenting every possible way to fail at computer stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://justanew.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  anvzdgfuzxdkzxyk
