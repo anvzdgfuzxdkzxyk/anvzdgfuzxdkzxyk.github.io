@@ -13,6 +13,7 @@ i'm interested in the following categories (listed in order of importance):
 - cars
 - clothing
 - cooking
+- climbing
 
 ### other cool people
 psych there are none...i'm the coolest\
